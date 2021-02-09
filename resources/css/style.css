@@ -62,6 +62,7 @@ footer {
     flex-flow: row nowrap;
     color: grey;
 }
-    #logo {
-        margin: 0px 5px 0px 5px;
+
+#logo {
+    margin: 0px 5px 0px 5px;
 }
