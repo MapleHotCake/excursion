@@ -12,8 +12,6 @@ body {
     
     display: flex;
     justify-content: center;
-    flex: 1 1 400px;
-    flex-wrap: wrap;
 }
 
 .downloadLink {
@@ -33,13 +31,37 @@ body {
 .subText {
     font-size: 21px;
     color: grey;
+    display: flex;
+    justify-content: center;
+}
+
+.camp {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.phone {
+    display: flex;
+    justify-content: center;
+    margin: auto;
 }
 
 h2 {
     font-weight: 300;
     font-size: 42px;
+    
+    display: flex;
+    justify-content: center;
 }
 
-#footer {
+footer {
     text-align: right;
+    display: flex;
+    justify-content: flex-end;
+    flex-flow: row nowrap;
+    color: grey;
+}
+    #logo {
+        margin: 0px 5px 0px 5px;
 }
