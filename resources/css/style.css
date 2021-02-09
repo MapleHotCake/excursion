@@ -29,3 +29,17 @@ body {
     justify-content: center;
     margin: auto;
 }
+
+.subText {
+    font-size: 21px;
+    color: grey;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+#footer {
+    text-align: right;
+}
